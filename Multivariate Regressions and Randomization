@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[16]:
-
 # This algorithm creates a random multivariate regression of the variation of the students IQ with SAT and GPA Scores. 
 # It constructs the IQ of students by constructing a linear equation, IQ = GPA + SAT/600 + random error. 
 
